@@ -4,19 +4,17 @@ Having experiences on Laravel framework and i would like to share favorite my ap
 # How to initialise your first laravel application
 
 ## Requiements
-    <ul>
-    <li>Install XAMPP Server</li> 
-    <li>Install Composer package</li> 
-    <li>Compatible tool such as VS code/ PHP Storm/ atom </li> 
-    <li>Terminal to run such as cmder (you can also use cmd)</li> 
-    </ul> 
+    
+* Install XAMPP Server
+* Install Composer package
+* Compatible tool such as VS code/ PHP Storm/ atom
+* Terminal to run such as cmder (you can also use cmd)
+     
 
 ## Checklist
 
-    <ul>
-        <li> Install Laravel </li>
-        <li> Add to PATH </li>
-        <li> Launch app </li>
-        <li> Create new database </li>
-        <li> Connect to database </li>
-    </ul>
+* Install Laravel
+* Add to PATH
+* Launch app
+* reate new database
+* Connect to database
