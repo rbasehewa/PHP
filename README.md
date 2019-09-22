@@ -16,5 +16,12 @@ Having experiences on Laravel framework and i would like to share favorite my ap
 * Install Laravel
 * Add to PATH
 * Launch app
-* reate new database
+* Create new database
 * Connect to database
+
+## How to use this project
+
+* Open a terminal in project folder
+* Run the command "composer"
+* Download the vendor package "composer update"
+* Open the browser and run http://localhost:8000/ 
