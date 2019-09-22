@@ -1,5 +1,5 @@
 # PHP
-Having experiences on Laravel framework and i would like to share favorite my applications and APIs with this repo
+Having experiences on Laravel framework and i would like to share favorite my applications and APIs under this repo
 
 # How to initialise your first laravel application
 
@@ -16,7 +16,7 @@ Having experiences on Laravel framework and i would like to share favorite my ap
 * Install Laravel
 * Add to PATH
 * Launch app
-* Create new database
+* Create new database ( DB-> gitfirstapp, Table-> posts and 3 rows -> id, title, content )
 * Connect to database
 
 ## How to use this project
